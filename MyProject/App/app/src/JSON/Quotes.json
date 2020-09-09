@@ -1,0 +1,43 @@
+[{
+    "id" : 1,
+    "quote" : "Give a man a program, frustrate him for a day. Teach a man to program, frustrate him for a lifetime.",
+    "author" : "― Muhammad Waseem"
+
+},
+
+{
+    "id" : 2,
+    "quote" : "The most disastrous thing that you can ever learn is your first programming language.",
+    "author" : "― Alan Kay"
+
+},
+
+{
+    "id" : 3,
+    "quote" : "Software testing is a sport like hunting, it's bug hunting.",
+    "author" : "― Amit Kalantri"
+
+},
+
+{
+    "id" : 4,
+    "quote" : "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.",
+    "author" : "― Martin Fowler"
+
+},
+
+{
+    "id" : 5,
+    "quote" : "Walking on water and developing software from a specification are easy if both are frozen. ",
+    "author" : "― Edward V Berard"
+
+},
+
+{
+    "id" : 6,
+    "quote" : "If debugging is the process of removing software bugs, then programming must be the process of putting them in.",
+    "author" : "― Edsger Dijkstra"
+
+}
+
+]
